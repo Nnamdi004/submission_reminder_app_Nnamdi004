@@ -62,13 +62,17 @@ EOL
 # Create and populate submissions.txt with at least 5 students
 cat <<EOL > "$main_dir/assets/submissions.txt"
 student, assignment, submission status
+
 Chinemerem, Shell Navigation, not submitted
 Chiagoziem, Git, submitted
 Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
-Emeka, Git, not submitted
-Favour, Shell Navigation, submitted
-Efe, Shell Basics, not submitted
+Emeka, Shell Navigation, submitted
+Fatima, Git, not submitted
+Ibrahim, Shell Basics, not submitted
+Aisha, Shell Navigation, not submitted
+Tunde, Git, submitted
+Ngozi, Shell Basics, submitted
 EOL
 
 # Create and populate startup.sh
