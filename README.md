@@ -89,11 +89,6 @@ This will:
 
 Example Output:
 
-vbnet
-
-Copy
-
-Edit
 
 Assignment: Shell Navigation
 
